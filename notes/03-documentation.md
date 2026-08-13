@@ -14,3 +14,6 @@ Linux ships with its own set of documantation built in, so before searching the 
 ## Terms I had to look up
 - **Man page sections** — man pages are categorized by type (commands, file formats, syscalls, etc.), and the same word can point to different pages depending on the section number.
  
+## Terminal Session
+
+![terminal session](documentation.png)
