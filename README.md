@@ -4,11 +4,12 @@ Documenting my journey through Red Hat's free **RH024: Red Hat Enterprise Linux 
 
 ## Why this repo exists
 
-I'm learning Linux system administration from the ground up using Red Hat's official (free) RH024 course. This repo is my public study log: a place to take real notes in my own words, document hands-on practice, and track progress with regular commits — rather than just collecting a certificate at the end.
+I'm learning Linux system administration from the ground up using Red Hat's official (free) RH024 course. This repo is my public study log: a place to take real notes in my own words, document hands-on practice, and track progress with regular commits.
 
 ## What's inside
 
 - **`notes/`** — Module-by-module notes from RH024, written in my own words as I complete each section.
+- **`terminal-session-screenshots`** - Visual evidence of my terminal sessions coding along with the course
 
 
 ## Progress
