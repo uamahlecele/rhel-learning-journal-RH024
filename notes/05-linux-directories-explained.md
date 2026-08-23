@@ -12,7 +12,3 @@ Linux follows a standard layout (the Filesystem Hierarchy Standard) so the same 
 
 ## Terms I had to look up
 - **FHS (Filesystem Hierarchy Standard)** — the spec defining this directory layout so it stays consistent across Linux distributions.
-
-## Terninal Session
-
-![linux directory](<Screenshot 2026-09-25 at 21.06.17.png>)
