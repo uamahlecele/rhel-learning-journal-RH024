@@ -15,15 +15,21 @@ I'm learning Linux system administration from the ground up using Red Hat's offi
 
 | Module | Topic | Status |
 |---|---|---|
-| 01 | Introduction to RHEL | 🔲 Not started |
-| 02 | Filesystem Basics | 🔲 Not started |
-| 03 | Users & Permissions | 🔲 Not started |
-| 04 | Package Management | 🔲 Not started |
-| 05 | Networking Basics | 🔲 Not started |
-| 06 | Systemd & Services | 🔲 Not started |
-
-
-## About RH024
-
-RH024 is Red Hat's free, self-paced technical overview course covering core RHEL administration concepts. No cost, no application, open to anyone. [redhat.com/rh024](https://www.redhat.com/en/services/training/rh024-red-hat-enterprise-linux-technical-overview)
+| 01 | Linux distributions | Completed |
+| 02 | Introduction to the shell | Completed |
+| 03 | Documentation | Completed |
+| 04 | Command line assistant | Completed |
+| 05 | Linux directories explained | Completed |
+| 06 | Basic file management | Completed |
+| 07 | Editing files with Vim |Completed |
+| 08 | Organizing local users and groups | Completed |
+| 09 | File permissions | Completed |
+| 10 | Managing software and updates | Completed|
+| 11 | Managing networking | Completed |
+| 12 | Managing system startup services with Systemd | Completed |
+| 13 | Deploying an application runtime to host a simple application | Completed |
+| 14 | Using Image Mode with Bootc | Completed |
+| 15 | Insights Image Builder | Completed |
+| 16 | Insights Vulnerability Management | Completed |
+| 17 | Managing systems with the RHEL web console | Completed |
 
