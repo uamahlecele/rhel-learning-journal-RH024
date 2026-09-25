@@ -34,3 +34,6 @@ I'm learning Linux system administration from the ground up using Red Hat's offi
 | 16 | Insights Vulnerability Management | Completed |
 | 17 | Managing systems with the RHEL web console | Completed |
 
+WTC-Z4S69XHA
+
+
